@@ -9,3 +9,7 @@
 - 活石條碼系統：`http://192.168.16.240:8002/check_in/qr_code/`
 
 詳細紀錄請看 [migration-notes.md](migration-notes.md)。
+
+## 事故與維護紀錄
+
+- [2026-06-17 .240 Docker port 連線事故紀錄](docs/2026-06-17-240-docker-port-connectivity.md)
